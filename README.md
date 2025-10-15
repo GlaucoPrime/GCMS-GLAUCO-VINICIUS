@@ -16,6 +16,13 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Gabriel Duda (@Gabriel-Duda, colaborador)
 * Alana Freitas (@lanarayanne, colaboradora)
 * Clarice Queiroz (@Clarice172102, colaboradora)
-
+* Marina Costa (@mcdssd, colaboradora)
+* Marcos André (@Marcos-0215, colaborador)
+* Guilherme Paradiso (@Guilherme-Paradiso, colaborador)
+* Rebeka Andrade (@Peixe-blue, colaboradora)
+* Davi Freitas (@DCF-2, colaborador)
+* Samara Silva (@samaravictoria10, colaboradora)
+* Gustavo Medeiros (@gustavo-mdrs, colaborador)
+* João Pedro (@JoaoPedropb2005, colaborador)
 ------------------------------------------------------------------------------------------------------
 
