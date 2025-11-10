@@ -26,3 +26,5 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * João Pedro (@JoaoPedropb2005, colaborador)
 ------------------------------------------------------------------------------------------------------
 
+Mudança feita na branch hotfix.
+
