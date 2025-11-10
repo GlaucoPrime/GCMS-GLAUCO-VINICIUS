@@ -1,1 +1,5 @@
-Arquivo criado na cópia do projeto
+<<<<<<< HEAD
+Arquivo criado na cópia do projeto e na versão original
+=======
+Arquivo criado na pasta original (diferente)
+>>>>>>> c4f7423 (Cria arquivo teste_copia.txt (versão original))
